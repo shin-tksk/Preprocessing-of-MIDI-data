@@ -21,7 +21,7 @@ MidiFileクラス
 - time sig:拍子記号についての情報
   - [TimeSignature(numerator=分子, denominator=分母, time=開始時間)]
 - key sig:キーについての情報
-  [KeySignature(key_name=調, key_number=調の番号, time=開始時間)]
+  - [KeySignature(key_name=調, key_number=調の番号, time=開始時間)]
 - markers: 
 - lyrics: 
 - instruments: 
