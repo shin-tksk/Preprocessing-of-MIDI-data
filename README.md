@@ -33,6 +33,7 @@ MidiFileクラス
 
 - instruments:トラックごとにNote情報が入っている
 
+
 Note(音符の情報)
 
 - start:開始時間（tick）
