@@ -12,3 +12,13 @@ https://mido.readthedocs.io/en/latest/
 
 ## midi-toolkit
 https://github.com/YatingMusic/miditoolkit
+
+MidiFileクラス
+- ticks per beat: 
+- max tick: 
+- tempo changes: 
+- time sig: 
+- key sig: 
+- markers: 
+- lyrics: 
+- instruments: 
