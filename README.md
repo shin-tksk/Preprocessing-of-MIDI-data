@@ -14,9 +14,9 @@ https://mido.readthedocs.io/en/latest/
 https://github.com/YatingMusic/miditoolkit
 
 MidiFileクラス
-- ticks per beat:4分音符を何tickで表すか(480tickで表すのが一般的）
+- ticks_per_beat:4分音符を何tickで表すか(480tickで表すのが一般的）
 
-- max tick:音符の中で最大のtick数
+- max_tick:音符の中で最大のtick数
 
 - tempo_changes:テンポについての情報
   - [TempoChange(tempo=BPM, time=開始時間)]
