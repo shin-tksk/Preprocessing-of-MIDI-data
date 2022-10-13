@@ -19,13 +19,13 @@ MidiFileクラス
 - max_tick:音符の中で最大のtick数
 
 - tempo_changes:テンポについての情報
-  - [TempoChange(tempo=BPM, time=開始時間)]
+  - [TempoChange(tempo=BPM, time=開始時間(tick))]
 
 - time_signature_changes:拍子記号についての情報
-  - [TimeSignature(numerator=分子, denominator=分母, time=開始時間)]
+  - [TimeSignature(numerator=分子, denominator=分母, time=開始時間(tick))]
 
 - key_signature_changes:キーについての情報
-  - [KeySignature(key_name=調, key_number=調の番号, time=開始時間)]
+  - [KeySignature(key_name=調, key_number=調の番号, time=開始時間(tick))]
 
 - markers:注目点についての情報（用途がよくわからんがギターソロとかにつけるのかな？）
 
